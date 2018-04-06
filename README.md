@@ -1,3 +1,4 @@
+Make sure you have chrome driver before running. set the path in  package step_definitions.Hooks-> openbrowser() method
 cucumber-jvm-template
 =====================
 
