@@ -1,4 +1,16 @@
-Make sure you have chrome driver before running. set the path in  package step_definitions.Hooks-> openbrowser() method
+## Before run the project 
+- Make sure you have chrome driver before running. 
+-  set the path in the package name 'step_definitions'.Hooks.class -> openbrowser() method and modify the chromedriver.exe path
+
+### to run
+- go to folder > mvn clean package or install
+-  this will run all the test cases and execute in the chrome driver browser
+
+### execution steps
+- \cucumber-jvm-template\src\test\resources\testData contains username/password 
+- 
+- 
+
 cucumber-jvm-template
 =====================
 
